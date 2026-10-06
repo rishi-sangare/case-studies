@@ -1,6 +1,6 @@
 # LLM matching & evals for a Japanese recruiting platform
 
-**Role:** backend / LLM engineer (Oct 2025 – present) · **Team:** 3 engineers · **My footprint:** 253 commits, 128 PRs
+**Role:** built the whole matching workflow (Oct 2025 – present), after building the first vector-DB + re-ranker search; a teammate owned the CV parser · **My footprint:** 253 commits, 128 PRs
 
 ## Problem
 A large Japanese recruiting database wanted recruiters to type a job description (or pick a candidate) and get a ranked shortlist with reasons, in English and Japanese, fast enough to use live.

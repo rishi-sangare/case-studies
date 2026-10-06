@@ -1,6 +1,6 @@
 # RefineCV · B2B CV-formatting SaaS
 
-**Role:** co-lead engineer (May – Sep 2026) · **My footprint:** 435 commits, 203 PRs authored, 188 of 213 PR merges
+**Role:** sole engineer, working with the founder: product and marketing site (May – Sep 2026) · **My footprint:** 435 commits, 203 PRs authored, 188 of 213 PR merges
 
 RefineCV turns any candidate CV (PDF, DOCX, scans) into an agency-branded document using LLM parsing, OCR and configurable templates, with teams, credits and billing. It's sold to recruitment agencies.
 
